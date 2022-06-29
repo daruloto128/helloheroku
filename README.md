@@ -1,12 +1,11 @@
-# TCC00340 - Desenvolvimento de Aplicações Corporativas - 2022/1
+## Tarefa : Hello World no Heroku 
+
+Tarefa (link) - <a href="https://www.google.com/"> HEROKU _ em desenvolvimento </a>
 
 Aluno: <a href="https://github.com/daruloto128">Danilo Murilo</a>
 
-Tarefa 1 (link) - <a href="https://www.google.com/"> HEROKU _ em desenvolvimento </a>
-
 Professor : <a href="https://github.com/jviterbo"> Viterbo </a>
 
-## Tarefa 01: Hello World no Heroku   
 
 * TAREFA PARA SER REALIZADA INDIVIDUALMENTE
 
