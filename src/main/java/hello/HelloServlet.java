@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Danilo
- */
 @SuppressWarnings({ "serial", "unused" })
 @WebServlet("/alomundo")
 public class HelloServlet extends HttpServlet {
@@ -197,7 +193,8 @@ public class HelloServlet extends HttpServlet {
         		msg = "God ettermiddag, ";
         	}else if(calendar.get(Calendar.HOUR_OF_DAY) > 18){
         		msg = "God natt, ";
-        	}	 
+        	}
+        	break;
         case "jp":
         	if(calendar.get(Calendar.HOUR_OF_DAY) <= 12) {
         		msg = "Ohayō, ";
