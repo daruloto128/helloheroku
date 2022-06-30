@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author Danilo
  */
-@SuppressWarnings("serial")
+@SuppressWarnings({ "serial", "unused" })
 @WebServlet("/alomundo")
 public class HelloServlet extends HttpServlet {
 	
@@ -81,7 +81,7 @@ public class HelloServlet extends HttpServlet {
             		+ "	<br><br><br>");
             out.println("</head>");
             out.println("<body>");         
-            out.println("<div class=\"container\"> <div class=\"row\"> <h1> <div class=\"col-md-9 ms-md-auto\">" +ola+nome+ "!</h1></div>"+"<div class=\"col-md-9 ms-md-auto\">Horario:"+calendar.get((Calendar.HOUR_OF_DAY))+"H </div> </div></div>");            
+            out.println("<div class=\"container\"> <div class=\"row\"> <h1> <div class=\"col-md-9 ms-md-auto\">" +ola+nome+ "!</h1></div>"+"<div class=\"col-md-9 ms-md-auto\">Horario: "+calendar.get((Calendar.HOUR_OF_DAY))+"H </div> </div></div>");            
             out.println("</body>");
             out.println("</html>");
         }
