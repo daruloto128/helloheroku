@@ -12,6 +12,7 @@ import java.io.Serializable;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
+@SuppressWarnings({ "serial", "unused" })
 public class MessageBean implements Serializable {
      
 	private Calendar calendar = new GregorianCalendar();
