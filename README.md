@@ -1,10 +1,10 @@
 ## Tarefa : Hello World no Heroku 
 
-Tarefa (link) - <a href="https://www.google.com/"> HEROKU _ em desenvolvimento </a>
+Tarefa (link) - <a href="https://hwhdanilouff.herokuapp.com/"> HEROKU _ APP </a>
 
-Aluno: <a href="https://github.com/daruloto128">Danilo Murilo</a>
+Aluno: <a href="https://github.com/daruloto128/">Danilo Murilo</a>
 
-Professor : <a href="https://github.com/jviterbo"> Viterbo </a>
+Professor : <a href="https://github.com/jviterbo/"> Viterbo </a>
 
 
 * TAREFA PARA SER REALIZADA INDIVIDUALMENTE
